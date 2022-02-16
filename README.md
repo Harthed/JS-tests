@@ -1,4 +1,6 @@
 # JS-test
-## Just a button test on js
-Basically, if you press the button it'll show a dialog.
-That simple.
+## Just some tests on js
+The names are pretty obvious.
+Ex:"dialog.js" shows a dialog.
+"image.js" it's a image changing tests
+etc...
